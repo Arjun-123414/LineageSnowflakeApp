@@ -57,21 +57,21 @@ npm start
 snowflake-lineage-explorer/
 │
 ├── backend/
-│   ├── app.py                 ← Copy Flask code here
-│   └── requirements.txt       ← Copy dependencies here
+│   ├── app.py                
+│   └── requirements.txt       
 │
 └── frontend/
     ├── public/
-    │   └── index.html        ← Create this HTML
+    │   └── index.html        
     │
     ├── src/
-    │   ├── App.js            ← Copy React code here
-    │   ├── index.js          ← Create entry point
-    │   └── index.css         ← Create Tailwind CSS
+    │   ├── App.js            
+    │   ├── index.js          
+    │   └── index.css        
     │
-    ├── package.json          ← Copy package config
-    ├── tailwind.config.js    ← Create Tailwind config
-    └── postcss.config.js     ← Create PostCSS config
+    ├── package.json          
+    ├── tailwind.config.js    
+    └── postcss.config.js     
 ```
 
 
