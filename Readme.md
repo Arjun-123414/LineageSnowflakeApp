@@ -24,7 +24,7 @@ npm install
 ### Step 3: Setup Backend
 
 ```bash
-cd ../backend
+cd backend
 pip install -r requirements.txt
 ```
 
