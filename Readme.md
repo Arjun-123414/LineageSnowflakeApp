@@ -24,6 +24,7 @@ Before you begin, ensure you have installed in your system:
 cd frontend
 npm install
 ```
+<img width="1652" height="355" alt="image" src="https://github.com/user-attachments/assets/38bcda48-7458-4e95-8a21-6434625d80da" />
 
 
 ### Step 3: Setup Backend
@@ -32,6 +33,7 @@ npm install
 cd backend
 pip install -r requirements.txt
 ```
+<img width="1106" height="357" alt="image" src="https://github.com/user-attachments/assets/a6a23fcc-e177-4c4c-b075-740cbb2067c4" />
 
 
 ## 🚀 Running the Application
