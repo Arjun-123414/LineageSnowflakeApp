@@ -78,4 +78,4 @@ snowflake-lineage-explorer/
 
 ---
 
-Thank You
+Note:- This is just a prototype final version. All the changes, like server design enhancements, need to be done
