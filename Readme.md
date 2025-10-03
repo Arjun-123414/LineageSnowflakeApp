@@ -78,4 +78,4 @@ snowflake-lineage-explorer/
 
 ---
 
-⭐ If you found this project helpful, please give it a star!
+Thank You
