@@ -9,8 +9,8 @@ Before you begin, ensure you have installed in your system:
 - **Python** (v3.7 or higher)
 - **npm** (comes with Node.js)
 
-- In terminal you cab check if you have node.js or not by typing
-  node -v
+- **In terminal you can check if you have node.js or not by typing**
+ **i)**  node -v
   <img width="940" height="243" alt="image" src="https://github.com/user-attachments/assets/11a36ad8-2dda-4f6c-9071-00eace567140" />
 
 
