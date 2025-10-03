@@ -4,7 +4,7 @@ A modern full-stack web application with React frontend and Flask backend.
 
 ## 📋 Prerequisites
 
-Before you begin, ensure you have installed:
+Before you begin, ensure you have installed in your system:
 - **Node.js** (v14 or higher)
 - **Python** (v3.7 or higher)
 - **npm** (comes with Node.js)
