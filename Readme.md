@@ -85,4 +85,4 @@ snowflake-lineage-explorer/
 
 ---
 
-Note: This is just a prototype of the final version. All changes, including server design enhancements, still need to be implemented.
+**Note:** This is just a prototype of the final version. All changes, including server design enhancements, still need to be implemented.
